@@ -1,0 +1,2 @@
+Consider the vectors.js sketch:
+    --> make the color and stroke weight of the line to vary smoothly (from thicker to thinner strokes and from hot hues, to cold ones, to hot again).
