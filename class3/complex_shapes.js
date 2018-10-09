@@ -20,7 +20,8 @@ function draw() {
     strokeJoin(ROUND);
     
     beginShape();
-    var numberSides = 10;
+    var numberSides = 5;
+    //numberSides = int(sqrt(mouseX));
     for(let a = 0; a<numberSides; a++){
         var translationX = width/2;
         var translationY = height/2;

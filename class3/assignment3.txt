@@ -1,0 +1,3 @@
+Finish the grid of circles sketch, including the interactions with the distance.
+
+Draw the circles with a fixed distance that increases as it gets closer to the center.
